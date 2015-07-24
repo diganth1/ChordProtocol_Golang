@@ -1,0 +1,3 @@
+
+{"ServerID" : "server1", "Protocol": "tcp", "IpAddress" : "127.0.0.1", "Port": 5551,
+"PersistentStorageContainer" : "/Users/Deepu/Drive/Code/Go Project/src/main/DICT3.txt", "Methods" : ["lookup","insertOrUpdate","insert", "delete", "listKeys", "listIDs", "shutdown"],"MyIP": "127.0.0.1","MyPort": 5555,"ChordExist":true}
